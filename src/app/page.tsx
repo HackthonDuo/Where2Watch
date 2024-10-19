@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from 'react'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
-import { Tv, Film, BookOpen, Trophy, Video, DollarSign, ChevronRight, X, Info, Moon, Sun } from "lucide-react"
+import { Tv, Film, BookOpen, Trophy, Video, DollarSign, ChevronRight, X, Moon, Sun } from "lucide-react"
 import Image from "next/image"
 import Link from "next/link"
 import { motion, AnimatePresence } from "framer-motion"
