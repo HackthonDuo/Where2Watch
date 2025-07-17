@@ -95,7 +95,7 @@ export default function Where2Watch() {
       title: "Movies & TV Shows",
       icon: <Film className="h-6 w-6" />,
       buttons: [
-        {  url: "https://fmoviesto.lol/home", image: "/movies/fmovies.png" },
+        {  url: "https://fmoviesto.ru/home", image: "/movies/fmovies.png" },
         {  url: "https://ww14.soap2dayhd.co/home/", image: "/movies/s2d.png" },
         {  url: "https://freek.to/", image: "/movies/binged.png" },
       ],
